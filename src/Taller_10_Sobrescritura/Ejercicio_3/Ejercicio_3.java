@@ -1,5 +1,9 @@
 package Taller_10_Sobrescritura.Ejercicio_3;
 
+//Uso Incorrecto de Sobrescritura
+//1. Intenta sobrescribir un método en una clase derivada cambiando su firma y observa los errores de compilación.
+//2. Sobrescribe un método sin usar @Override y analiza por qué es una mala práctica.
+
 public class Ejercicio_3 {
 
     public static void main( String[] args ) {
